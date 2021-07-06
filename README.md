@@ -9,4 +9,5 @@
     <p><a href="use_Q.html" target="_blank"><img src="yes.png" width="" height=""></a><img src="1_y.jpg" width="" height=""><p>
     <p><a href="use_m.html" target="_blank"><img src="no.png" width="" height=""></a><img src="1_n.jpg" width="" height=""></p>
   </body>
+  </head>
 </html>
