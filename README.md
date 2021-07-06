@@ -4,5 +4,5 @@
     <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <P><h1>STEAM캠프 부스 AI추천서비스를 이용하시겠습니까?</h1>(자신의 의견에 해당되는 이미지를 클릭해주세요.)</p>
-    <p><a href="y1.html"><img src="yes.png" width="" height=""></a><a href="use_m.html"><img src="no.png" width="" height=""></a><p>
+    <P><h1>서비스 이용</h1>(시작하려면 아래 이미지를 클릭해주세요.)</p>
+    <p><a href="start.html"><img src="1.jpg" width="" height=""></a></p>
