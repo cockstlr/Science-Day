@@ -5,4 +5,4 @@
   </head>
   <body>
     <P><h1>서비스 이용</h1>(시작하려면 아래 이미지를 클릭해주세요.)</p>
-    <p><a href="start.html"><img src="1.jpg" width="" height=""></a></p>
+    <p><a href="start.html"><img src="1.png" width="" height=""></a></p>
